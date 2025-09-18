@@ -1,0 +1,13 @@
+{
+	"editor.formatOnSave": true,
+	"[COBOL]": {
+		"files.encoding": "utf8",
+		"files.autoGuessEncoding": false,
+		"editor.defaultFormatter": "bitlang.cobol",
+		"editor.formatOnSave": true,
+		"editor.tabSize": 4,
+		"editor.insertSpaces": true,
+		"editor.detectIndentation": true,
+	},
+	"coboleditor.format_constants_to_uppercase": true,
+}
